@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><settings><config name="username" value="postgres"/><config name="password" value="0410"/><config name="url" value="jdbc:postgresql://localhost:5432/decanat"/></settings>
